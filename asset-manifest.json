@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MathClassification/static/css/main.94eb7d61.chunk.css",
+    "main.js": "/MathClassification/static/js/main.da413117.chunk.js",
+    "main.js.map": "/MathClassification/static/js/main.da413117.chunk.js.map",
+    "runtime-main.js": "/MathClassification/static/js/runtime-main.5f4f5fd5.js",
+    "runtime-main.js.map": "/MathClassification/static/js/runtime-main.5f4f5fd5.js.map",
+    "static/js/2.aa4ccad0.chunk.js": "/MathClassification/static/js/2.aa4ccad0.chunk.js",
+    "static/js/2.aa4ccad0.chunk.js.map": "/MathClassification/static/js/2.aa4ccad0.chunk.js.map",
+    "index.html": "/MathClassification/index.html",
+    "precache-manifest.bd4212a9b984a0ca9ad3ded2c5b62fd5.js": "/MathClassification/precache-manifest.bd4212a9b984a0ca9ad3ded2c5b62fd5.js",
+    "service-worker.js": "/MathClassification/service-worker.js",
+    "static/css/main.94eb7d61.chunk.css.map": "/MathClassification/static/css/main.94eb7d61.chunk.css.map",
+    "static/js/2.aa4ccad0.chunk.js.LICENSE.txt": "/MathClassification/static/js/2.aa4ccad0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f4f5fd5.js",
+    "static/js/2.aa4ccad0.chunk.js",
+    "static/css/main.94eb7d61.chunk.css",
+    "static/js/main.da413117.chunk.js"
+  ]
+}
