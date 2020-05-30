@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc6145cfa70b6ab58c3453d98b34483f",
+    "revision": "bebae5190d934cc81cab84594e631275",
     "url": "/MathClassification/index.html"
   },
   {
-    "revision": "3a580e829a36257a9428",
+    "revision": "36fe9cc3ef275b0aabe9",
     "url": "/MathClassification/static/css/main.5130dcd6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MathClassification/static/js/2.84ce2ed0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a580e829a36257a9428",
-    "url": "/MathClassification/static/js/main.68165283.chunk.js"
+    "revision": "36fe9cc3ef275b0aabe9",
+    "url": "/MathClassification/static/js/main.654517d6.chunk.js"
   },
   {
     "revision": "c34d7b2a3fc0e9477c4b",
