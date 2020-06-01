@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/MathClassification/static/css/main.5130dcd6.chunk.css",
-    "main.js": "/MathClassification/static/js/main.2368562a.chunk.js",
-    "main.js.map": "/MathClassification/static/js/main.2368562a.chunk.js.map",
+    "main.js": "/MathClassification/static/js/main.7c760f5f.chunk.js",
+    "main.js.map": "/MathClassification/static/js/main.7c760f5f.chunk.js.map",
     "runtime-main.js": "/MathClassification/static/js/runtime-main.5f4f5fd5.js",
     "runtime-main.js.map": "/MathClassification/static/js/runtime-main.5f4f5fd5.js.map",
-    "static/js/2.84ce2ed0.chunk.js": "/MathClassification/static/js/2.84ce2ed0.chunk.js",
-    "static/js/2.84ce2ed0.chunk.js.map": "/MathClassification/static/js/2.84ce2ed0.chunk.js.map",
+    "static/js/2.e4ab73ce.chunk.js": "/MathClassification/static/js/2.e4ab73ce.chunk.js",
+    "static/js/2.e4ab73ce.chunk.js.map": "/MathClassification/static/js/2.e4ab73ce.chunk.js.map",
     "index.html": "/MathClassification/index.html",
-    "precache-manifest.fb47018171f15559899d17baeb181668.js": "/MathClassification/precache-manifest.fb47018171f15559899d17baeb181668.js",
+    "precache-manifest.80393a0ebef9e9fb43bd4cf1351ec928.js": "/MathClassification/precache-manifest.80393a0ebef9e9fb43bd4cf1351ec928.js",
     "service-worker.js": "/MathClassification/service-worker.js",
     "static/css/main.5130dcd6.chunk.css.map": "/MathClassification/static/css/main.5130dcd6.chunk.css.map",
-    "static/js/2.84ce2ed0.chunk.js.LICENSE.txt": "/MathClassification/static/js/2.84ce2ed0.chunk.js.LICENSE.txt"
+    "static/js/2.e4ab73ce.chunk.js.LICENSE.txt": "/MathClassification/static/js/2.e4ab73ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5f4f5fd5.js",
-    "static/js/2.84ce2ed0.chunk.js",
+    "static/js/2.e4ab73ce.chunk.js",
     "static/css/main.5130dcd6.chunk.css",
-    "static/js/main.2368562a.chunk.js"
+    "static/js/main.7c760f5f.chunk.js"
   ]
 }
