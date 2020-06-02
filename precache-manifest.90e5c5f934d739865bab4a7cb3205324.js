@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "220ec173765d7f5767572526544a1075",
+    "revision": "413eb0fbfbb0ac3ad68d34ee9ef432bb",
     "url": "/MathClassification/index.html"
   },
   {
