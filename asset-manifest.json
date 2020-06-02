@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MathClassification/static/css/main.5130dcd6.chunk.css",
-    "main.js": "/MathClassification/static/js/main.595a531f.chunk.js",
-    "main.js.map": "/MathClassification/static/js/main.595a531f.chunk.js.map",
+    "main.js": "/MathClassification/static/js/main.4f82b889.chunk.js",
+    "main.js.map": "/MathClassification/static/js/main.4f82b889.chunk.js.map",
     "runtime-main.js": "/MathClassification/static/js/runtime-main.5f4f5fd5.js",
     "runtime-main.js.map": "/MathClassification/static/js/runtime-main.5f4f5fd5.js.map",
     "static/js/2.61f9e2e5.chunk.js": "/MathClassification/static/js/2.61f9e2e5.chunk.js",
     "static/js/2.61f9e2e5.chunk.js.map": "/MathClassification/static/js/2.61f9e2e5.chunk.js.map",
     "index.html": "/MathClassification/index.html",
-    "precache-manifest.b695611751d2b087894e65bd0bf692fd.js": "/MathClassification/precache-manifest.b695611751d2b087894e65bd0bf692fd.js",
+    "precache-manifest.e358f6debd7a909d58a067c335636136.js": "/MathClassification/precache-manifest.e358f6debd7a909d58a067c335636136.js",
     "service-worker.js": "/MathClassification/service-worker.js",
     "static/css/main.5130dcd6.chunk.css.map": "/MathClassification/static/css/main.5130dcd6.chunk.css.map",
     "static/js/2.61f9e2e5.chunk.js.LICENSE.txt": "/MathClassification/static/js/2.61f9e2e5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5f4f5fd5.js",
     "static/js/2.61f9e2e5.chunk.js",
     "static/css/main.5130dcd6.chunk.css",
-    "static/js/main.595a531f.chunk.js"
+    "static/js/main.4f82b889.chunk.js"
   ]
 }
